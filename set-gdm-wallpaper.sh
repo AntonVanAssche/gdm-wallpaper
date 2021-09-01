@@ -10,6 +10,8 @@ rce binary not found. "
   echo " "
   echo "Ubuntu:"
   echo "# apt install glib2-dev"
+  echo "Fedora:"
+  echo "# dnf install glib2-devel"
   exit 1
 fi
 
