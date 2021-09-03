@@ -7,6 +7,9 @@ This script allows change background on login screen.
 - Ubuntu 20.04
 - Ubuntu 20.10
 - Ubuntu 21.04
+- Fedora 34
+
+But this script should work on any distro with a /usr/share/gnome-shell/gnome-shell-theme.gresource file.
 
 # Install
 ```
