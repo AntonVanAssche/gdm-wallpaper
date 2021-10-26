@@ -13,7 +13,7 @@ But this script should work on any distro with a /usr/share/gnome-shell/gnome-sh
 
 # Install
 ```
-$ git clone git@gitlab.com:sudo_TuX/gdm-wallpaper.git
+$ git clone https://github.com/TuX-sudo/gdm-wallpaper.git
 $ cd set-gdm-wallpaper/
 $ ./set-gdm-wallpaper /path/to/image.png
 
